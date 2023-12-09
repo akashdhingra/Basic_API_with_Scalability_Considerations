@@ -1,0 +1,23 @@
+{
+  "name": "basic_api_with_scalability_considerations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashdhingra/Basic_API_with_Scalability_Considerations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashdhingra/Basic_API_with_Scalability_Considerations/issues"
+  },
+  "homepage": "https://github.com/akashdhingra/Basic_API_with_Scalability_Considerations#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
