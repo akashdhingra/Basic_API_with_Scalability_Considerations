@@ -27,6 +27,5 @@ The request method is the way we distinguish what kind of action our endpoint is
 | `GET`    | `/students`                              | List students with cursor-based pagination. |
 | `POST`   | `/students`                              | Add a new student to the system.          |
 | `PUT`    | `/students/{id}`                         | Update information for a specific student.|
-| `POST`   | `/api/posts/28/comments`                 | Add comment to post #28.                  |
 | `DELETE` | `/students/{id}`                         | Remove a specific student from the system.|
 
